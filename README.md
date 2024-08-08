@@ -1,9 +1,7 @@
 # Metastases_Radiomics - Author: P salazar 2024. Tested with RStudio 2023.09.0 Build 463 and R version ‘4.3.0’
 R-code, data and example results - metastases radiomics FPCA
 
-R-Scripts: 
-
-1.Figure1_FPCA_Metastases_3FPC.R
+1. Figure1_FPCA_Metastases_3FPC.R
 Input file: metastases_io_files
 Output file: Figure1_MetastasesFPCA.pdf
 Compute Functional Principal Components and plots shown in Figure 1 of metastases_radiomic paper:
